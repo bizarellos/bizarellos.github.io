@@ -9,9 +9,8 @@
 
 	$subject = "Form submission";
 
-	$message = $sender_name . " has send the contact message. His / Her contact Service is " . $service . " and his / her adress is "  . $adress . ". He / she wrote the following... ". "\n\n" . $note;
-
+	$message = $sender_name . " has send the contact message. His / Her contact Servi
 	$headers = 'From: ' . $from;
 	mail($to, $subject, $message, $headers);
 
-?>
+?>ce is " . $service . " and his / her adress is "  . $adress . ". He / she wrote the following... ". "\n\n" . $note;
