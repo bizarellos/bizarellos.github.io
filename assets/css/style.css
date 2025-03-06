@@ -887,7 +887,7 @@ img {
   font-size: 20px;
   font-size: 1.3333333333rem;
   color: #fff;
-  background-color: #e3b576;
+  background-color: #FF0000;
   border: 0;
   outline: 0;
   position: absolute;
@@ -1829,7 +1829,7 @@ img {
 }
 .cart-search-contact input:focus {
   box-shadow: none;
-  border-color: #e3b576;
+  border-color: #FF0000;
 }
 
 .wpo-site-header .header-right .header-search-content-toggle {
@@ -2051,7 +2051,7 @@ img {
 
 .header-search-area input:focus {
   box-shadow: none;
-  border-color: #e3b576;
+  border-color: #FF0000;
 }
 
 .header-search-area form button {
